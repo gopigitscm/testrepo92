@@ -11,7 +11,7 @@ namespace firstApp
     {
         protected void Application_Start()
         {
-            //added commemt
+            // commemt in F1 branch need to merge in Master
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
