@@ -11,6 +11,7 @@ namespace firstApp
     {
         protected void Application_Start()
         {
+            //added commemt
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
