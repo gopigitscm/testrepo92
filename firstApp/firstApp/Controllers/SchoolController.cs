@@ -8,12 +8,7 @@ namespace firstApp.Controllers
 {
     public class SchoolController : Controller
     {
-        // GET: School
-        //public ActionResult FirstView()
-        //{
-        //    return View();
-        //}
-        //[HttpPost]
+        
         public ActionResult FirstView(int ? i)
         {
            
